@@ -1,7 +1,7 @@
 {
   "name": "@mrfentmen/steam-mcp",
   "version": "1.0.0",
-  "description": "MCP server for Steam — store search, prices and discounts, app details, and game news.",
+  "description": "MCP server for Steam, store search, prices and discounts, app details, and game news.",
   "type": "module",
   "mcpName": "io.github.mrfentmen/steam-mcp",
   "repository": {
